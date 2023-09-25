@@ -16,6 +16,6 @@ int main()
 }
 int main(){
     baitap<E> a;
-    a.countNode;
+    a.countNode(&head);
     return 0;
 }
